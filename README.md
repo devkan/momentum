@@ -21,7 +21,7 @@ To run this project in your local environment, you need to have the latest versi
 1. Clone this repository:
 
    ```bash
-   git clone https://yourrepository.com/momentum-clone.git
+   git clone https://github.com/devkan/momentum.git
    cd momentum-clone
    ```
 
