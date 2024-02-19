@@ -1,4 +1,3 @@
-
 # Momentum Clone
 
 Momentum is designed to enhance your daily productivity and focus by providing a personal dashboard. This project is inspired by the Momentum extension available on the [Google Chrome Web Store](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca), and it's built using JavaScript, HTML, and CSS.
@@ -61,4 +60,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Acknowledgments
 
 - Inspired by the creators of the Momentum extension, this project was started.
-
