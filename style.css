@@ -236,6 +236,18 @@ input[type="checkbox"] {
   margin: 0px;
 }
 
+#github{
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	padding: 20px;
+	z-index: 1000;
+}
+#github img{
+	height: 25px;
+	color: #FFFFFF;
+	filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
 
 @media (min-width: 1024px) {
 	.left-section, .right-section {

@@ -8,7 +8,7 @@ const images = [
 //const chosenImage = images[Math.floor(Math.random() * images.length)];
 */
 
-const accessKey = 'xxxx-xxxxx';
+const accessKey = 'xxxxxx';
 const url = `https://api.unsplash.com/photos/random?client_id=${accessKey}&query=nature&orientation=landscape`;
 
 fetch(url)

@@ -1,4 +1,4 @@
-const API_KEY = "xxxxxxxx";
+const API_KEY = "xxxxxxx";
 //https://api.openweathermap.org/data/2.5/weather?lat=57&lon=-2.15&appid={API key}
 
 function onGeoOk(position) {

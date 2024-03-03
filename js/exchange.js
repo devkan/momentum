@@ -15,7 +15,7 @@ const output_currency = document.querySelector('#output_currency');
 const output_amount = document.querySelector('#output_amount');
 const exchange_rate = localStorage.getItem('exchange_rate'); // 환율 정보 저장
 
-const apiKey = 'xxxxxxxxx';
+const apiKey = 'xxxxxxx';
 const apiUrl = `https://openexchangerates.org/api/latest.json?app_id=${apiKey}`;
 let rates = '';
 
